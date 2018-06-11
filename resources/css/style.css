@@ -1,0 +1,27 @@
+Body {
+  background-color: black;
+  font-family: "Verdana";
+  text-align: center;
+  color: white;
+}
+
+#heading1 h1 {
+  font-size: 50px;
+  font-weight: normal;
+
+
+}
+#heading1 p, a {
+  font-size: 16px;
+  color: aquamarine;
+  text-align: center;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+#section1 p {
+  font-size: 21px;
+  color: grey;
+}
